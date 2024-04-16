@@ -2,7 +2,7 @@ body{
     display: flex;
     justify-content: center;
     margin: 0;
-        background-color: rgb(166, 216, 166);
+        background-color: rgba(155, 130, 5, 0.244);;
 }
 .container{
    
