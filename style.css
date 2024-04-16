@@ -2,9 +2,10 @@ body{
     display: flex;
     justify-content: center;
     margin: 0;
+        background-color: rgb(166, 216, 166);
 }
 .container{
-    background-color: rgb(166, 216, 166);
+   
     max-width: 100%;
     width: 80%;
     margin: 20px;
